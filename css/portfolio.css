@@ -1,0 +1,24 @@
+
+.logo {
+  width: 30%;
+  border-top-left-radius: calc(.25rem - 1px);
+  border-top-right-radius: calc(.25rem - 1px);
+}
+
+.col-md-4 .card .img-fluid img {
+  width: 350px;
+  height: 350px;
+  object-fit: fill;
+}
+
+.img-fluid img {
+  width: 350px;
+  height: 350px;
+  object-fit: fill;
+}
+
+img1 {
+  width: 350px;
+  height: 350px;
+  object-fit: fill;
+}
